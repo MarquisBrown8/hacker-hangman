@@ -9,7 +9,6 @@ A cyberpunk-themed Hangman game in the terminal. Guess tech and hacker words bef
 - Replayable and fun!
 
 ## ▶️ Run the Game
-Make sure Python is installed, then:
 
 ```bash
 pip install -r requirements.txt
